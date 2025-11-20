@@ -1,0 +1,16 @@
+# --- C Fundamentals ---
+# Ignore Windows Executables
+*.exe
+
+# Ignore Linux/Mac Output files
+*.out
+
+# Ignore Object files (intermediate compiled files)
+*.o
+
+# --- Editor Settings (Optional) ---
+# If you use VS Code, this keeps your personal settings local
+.vscode/
+
+# If you use a Mac
+.DS_Store
