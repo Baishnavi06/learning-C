@@ -20,7 +20,7 @@ Here is my roadmap for this semester:
 - [x] Introduction & Setup
 - [x] Variables & Data Types
 - [x] Operators & Expressions
-- [ ] Conditional Statements (If-Else)
+- [x] Conditional Statements (If-Else)
 - [ ] Loops & Iterations
 - [ ] Functions
 - [ ] Arrays
