@@ -18,8 +18,8 @@ I organize my code by concepts:
 Here is my roadmap for this semester:
 
 - [x] Introduction & Setup
-- [ ] Variables & Data Types
-- [ ] Operators & Expressions
+- [x] Variables & Data Types
+- [x] Operators & Expressions
 - [ ] Conditional Statements (If-Else)
 - [ ] Loops & Iterations
 - [ ] Functions
