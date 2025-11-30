@@ -9,7 +9,8 @@ int main()
     if(num > 0)
     {
         printf("%d is a positive number.\n", num);
-    }
+    } 
+
     //2. if-else statement
     if(num % 2 == 0)
     {
@@ -19,6 +20,7 @@ int main()
     {
         printf("%d is an odd number.\n", num);
     }
+
     //3. if - else if - else statement
     if(num > 0)
     {
@@ -32,6 +34,7 @@ int main()
     {
         printf("The number is zero.\n");
     }
+    
     //4. switch-case statement
     int day;    
     printf("Enter a day number (1-7): ");
