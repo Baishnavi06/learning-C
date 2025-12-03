@@ -21,8 +21,8 @@ Here is my roadmap for this semester:
 - [x] Variables & Data Types
 - [x] Operators & Expressions
 - [x] Conditional Statements (If-Else)
-- [ ] Loops & Iterations
-- [ ] Functions
+- [x] Loops & Iterations
+- [x] Functions
 - [ ] Arrays
 - [ ] Pointers (The tricky part! 🧠)
 - [ ] Structures & Unions
